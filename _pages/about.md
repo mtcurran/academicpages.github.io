@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at the UC Berkeley School of Information. I'm interested in biosensing technologies through the lens of human-computer interaction and both quantitative and qualitative methods. 
+Hi, I'm a PhD student at the UC Berkeley School of Information. I study digital technologies and the people who use them. My research is centered around biosensing and virtual reality using both quantitative and qualitative methods. 
