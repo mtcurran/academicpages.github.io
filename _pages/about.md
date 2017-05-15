@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a PhD student at the UC Berkeley School of Information. I study thedeisng and developemtndigital technologies and the people who use them. My research is centered around biosensing and virtual reality using both quantitative and qualitative methods. 
+Hi, I'm a PhD student at the UC Berkeley School of Information where I study the design and development of digital technologies and the people who use them. As a member of the [BioSENSE research group](http://biosense.berkeley.edu), my research interests are the applications and implications of measuring, interpreting, and sharing various signals from our bodies and behaviors. 
