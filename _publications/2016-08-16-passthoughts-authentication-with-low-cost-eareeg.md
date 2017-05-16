@@ -2,11 +2,10 @@
 title: "Passthoughts Authentication with Low Cost EarEEG"
 collection: publications
 permalink: /publications/2016-08-16-passthoughts-authentication-with-low-cost-eareeg
-venue: "2016 IEEE 38th Annnual Conference of the Engineering in Medicine and Biology Society (EMBC '16)"
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+venue: "38th Annnual Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2016)"
 date: 2016-08-16
 paperurl: http://biosense.berkeley.edu/projects/ear-eeg/assets/EMBC2016.pdf
-citation: 'Curran, M.T., Yang, J., Merrill, N., Chuang, J. (2016). "Passthoughts Authentication with Low Cost EarEEG." <i>Proceedings of the 38th Annual Conference of the Engineering in Medicine and Biology Society (EMBC '16)</i>.'
+citation: 'Curran, M.T., Yang, J., Merrill, N., Chuang, J. (2016). "Passthoughts Authentication with Low Cost EarEEG." <i>Proceedings of the 38th Annual Conference of the Engineering in Medicine and Biology Society (EMBC 2016)</i>.'
 ---
 
 ## Abstract
