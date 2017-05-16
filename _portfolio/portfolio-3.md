@@ -1,9 +1,11 @@
 ---
-title: "TrackStream"
-excerpt: "A web app to stream music from your favorite movies and TV shows. (Fall 2016)<br/><img src='/images/500x300.png'>"
+title: "How Many Fish?"
+excerpt: "A visualization to interrogate the workings of an online dating algorithm. (Spring 2016)<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-TrackStream
+How Many Fish?
 
-[Project Github](https://github.com/INFO253-FL2016/final-project-trackstream){:target="_blank"} - [Project Link](http://trackstream.herokuapp.com){:target="_blank"}
+_Course project for INFO 247: Information Visualization and Presentation, Spring 2016_
+
+[Project Link](http://howmanyfish.herokuapp.com/){:target="_blank"} - [Project Report](/files/HMF_S16_finalreport.pdf){:target="_blank"}
