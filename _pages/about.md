@@ -11,4 +11,4 @@ Hi, I'm a PhD student at the [UC Berkeley School of Information](http://www.isch
 
 Before graduate school I worked on research at the [Massachusetts General Hospital Center for Addiction Medicine](http://www.mghaddictionmedicine.com/){:target="_blank"} and the [Nobeyama Radio Observatory](http://www.nro.nao.ac.jp/en/){:target="_blank"}, a branch of the National Astronomical Observatory of Japan. I completed my undergraduate education at the [University of Massachusetts, Amherst](http://www.umass.edu/){:target="_blank"}.
 
-Please use the navigation for more detailed information. If you'd like to contact me, do so via e-mail: ([mtcurran@ischool.berkeley.edu](mailto:mtcurran@ischool.berkeley.edu)). Thanks for stopping by!
+Please use the navigation for more detailed information. If you'd like to contact me, do so via e-mail (<a href="mailto:mtcurran@ischool.berkeley.edu">mtcurran@ischool.berkeley.edu<a/>). Thanks for stopping by!

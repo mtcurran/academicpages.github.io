@@ -6,6 +6,6 @@ collection: portfolio
 
 How Many Fish?
 
-_Course project for INFO 247: Information Visualization and Presentation, Spring 2016_
+_Spring 2016 course project for INFO 247: Information Visualization and Presentation_
 
-[Project Link](http://howmanyfish.herokuapp.com/){:target="_blank"} - [Project Report](/files/HMF_S16_finalreport.pdf){:target="_blank"}
+[Project Link](http://howmanyfish.herokuapp.com/){:target="_blank"} - [Web App Github](http://github.com/pdglenn/HowManyFish) - [Project Report](/files/HMF_S16_finalreport.pdf){:target="_blank"}
