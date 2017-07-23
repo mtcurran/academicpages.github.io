@@ -1,6 +1,6 @@
 ---
 title: "TrackStream"
-excerpt: "A web app and API to stream music from your favorite movies and TV shows. (Fall 2016)<br/><img src='/images/500x300.png'>"
+excerpt: "A web app and API to stream music from your favorite movies and TV shows. (Fall 2016)<br/><img src='/images/projects_trackstream.png'>"
 collection: portfolio
 ---
 
