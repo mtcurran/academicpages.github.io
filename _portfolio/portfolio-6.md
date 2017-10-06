@@ -1,6 +1,6 @@
 ---
 title: "PIPPOP"
-excerpt: "Interface developed for an app to simplify and improve the exchange of contact information. (Fall 2015)<br/><img src='/images/500x300.png'>"
+excerpt: "Interface developed for an app to simplify and improve the exchange of contact information. (Fall 2015)<br/><img src='/images/projects_pippop.png'>"
 collection: portfolio
 ---
 

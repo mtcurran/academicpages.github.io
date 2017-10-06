@@ -1,6 +1,6 @@
 ---
 title: "Multifactor Authentication with EarEEG"
-excerpt: "Utilizing brain activity measured from the ear for usable and secure authentication.<br/><img src='/images/500x300.png'>"
+excerpt: "Utilizing brain activity measured from the ear for usable and secure authentication.<br/><img src='/images/projects_eareegauth.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "How Many Fish?"
-excerpt: "A visualization to interrogate the workings of an online dating algorithm. (Spring 2016)<br/><img src='/images/500x300.png'>"
+excerpt: "A visualization to interrogate the workings of an online dating algorithm. (Spring 2016)<br/><img src='/images/projects_HMF.png'>"
 collection: portfolio
 ---
 
