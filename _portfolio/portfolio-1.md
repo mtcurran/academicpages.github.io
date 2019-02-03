@@ -1,5 +1,5 @@
 ---
-title: "Biosensory Cues in Digitally Mediated Empathy"
+title: "Social Biosensing & Digitally-Mediated Empathy"
 excerpt: "Examining the effects of biosensory cues in technology-mediated communication.<br/><img src='/images/projects_mediatedemp.png'>"
 collection: portfolio
 ---
