@@ -1,13 +1,13 @@
 ---
-title: "How Many Fish?"
-excerpt: "A visualization to interrogate the workings of an online dating algorithm. (Spring 2016)<br/><img src='/images/projects_HMF.png'>"
+title: "TrackStream"
+excerpt: "A web app and API to stream music from your favorite movies and TV shows. (Fall 2016)<br/><img src='/images/projects_trackstream.png'>"
 collection: portfolio
 ---
 
-How Many Fish? is a data visualization project designed to allow exploration of a dating service's matching algorithm by dynamicaly showing change in match percentage when a user modifies the importance weights of various compatability questions. We conducted interviews with individuals who had participated in online dating in our user research, which indicated a lack of understanding of the matching process and a desire to understand it better considering its impact. Additionally, an introduction to the visualization discusses recent trends in online dating practices like the tendency for users to rate profiles who share their race higher than those who do not. In conversation with this trend, the visualization includes demographics information of the pool of matches, which also changes as the user modifies the question weights. The data shown in the visualization was based on a publicly available data set of OKCupid users in 2012, but the usernames and some variables were randomly generated.
+TrackStream is a web application that integrates the TuneFind API and YouTube API to allow users to search and stream songs from movie and TV show soundtracks. Using the TuneFind API allowed us to include descriptions of the scenes during which each song is playing, enabling someone to find a song even if the title, artist, or specific lyrics are unknown. The functionality of TrackStream is separated into its own API, which is called by the web server to return results to the front end for display.
 
-The introduction was created using Adobe Illustrator and Highcharts, while the main visualization itself uses D3.js. 
+As a team we utilized GitHub and Heroku to develop and deploy the HTML, CSS, and JavaScript for the project. The back end web server, which was my primary role, is written using Node.js and Express.js, while the front end makes use of Mustache.js for templating.
 
-_Spring 2016 course project for INFO 247: Information Visualization and Presentation_
+_Fall 2016 course project for INFO 253: Web Architecture_
 
-[Project Link](http://howmanyfish.herokuapp.com/){:target="_blank"} - [Web App Github](http://github.com/pdglenn/HowManyFish) - [Project Report](/files/HMF_S16_finalreport.pdf){:target="_blank"}
+[Project Link](http://trackstream.herokuapp.com){:target="_blank"} - [Web App Github](http://github.com/mtcurran/webarch-finalproject-trackstream){:target="_blank"} - [API Github](http://github.com/mtcurran/webarch-finalproject-trackstream-api){:target="_blank"}

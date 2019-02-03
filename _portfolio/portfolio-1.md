@@ -1,15 +1,10 @@
 ---
-title: "Multifactor Authentication with EarEEG"
-excerpt: "Utilizing brain activity measured from the ear for usable and secure authentication.<br/><img src='/images/projects_eareegauth.png'>"
+title: "Biosensory Cues in Digitally Mediated Empathy"
+excerpt: "Examining the effects of biosensory cues in technology-mediated communication.<br/><img src='/images/projects_mediatedemp.png'>"
 collection: portfolio
 ---
 
-Alphanumeric passwords perform poorly in their role in securing sensitive information as is seen time and time again with news headlines reporting account compromises that have led to severe financial and reptutional costs. A much stronger alternative is multifactor authentication systems - those that draw from a combination of knowledge (something only you _know_), inherence (something only you _are_), and possession (something only you _have_). However, these systems typically come with the unfortunate side effect of multiple steps which is a burden users and limits adoption. For example, a website that that requires an alphanumeric password (knowledge factor) and a text code sent to your mobile phone (possession factor) is cumbersome to many.
+Technology-mediated communication affords great advantages such as surpassing the need to be physically co-located and enabling anonymity, but depending on the medium the verbal and nonverbal cues we rely on to convey our own and understand others' thoughts and feelings are limited or altogether absent. How might we keep the advantages of technology-mediated communication and ameliorate this drawback? This work seeks to measure the effects of sharing physiological data in communication on the interpersonal process of empathy. In this first study we observe that embedding electrodermal activity (EDA) in a video of an anonymuous person's experience lowers observers' accuracies about their feelings, but functions similarly to narrative text as a reminder of the person's presence and unique perspective. Future work will continue to explore these effects with broader interpretations of empathy and in different relationship types.
 
-"Passthoughts" is a paradigm aimed at being both multifactor and one-step, using the inherence factor of EEG (electroencephalography, measure electrical activity from the brain), the knowledge factor of a user's chosen mental thought, and potentially the posession factor of the device itself if it passes a unique digital signature. EEG has tradtionally been collected via many channels, or electrodes, placed on the scalp - but recent research has shown that EEG can be collected from the ear allowing for a much more wearable form factor similar to audio headphones or a bluetooth headset. We first combined passthoughts and earEEG by modifying a cheap, off-the-shelf device to collect data using a single electrode placed in the ear canal rather than on the scalp. More recently we created and tested custom-fit earpieces with multiple electrodes achieving >99% accuracy rates with a single earpiece within our study sample.
 
-[Recorded Talk at the 2018 CLTC Research Exchange](https://www.youtube.com/watch?v=ie4d1Yy0mdU){:target="_blank"}
-
-[EMBC 2016 Paper](/files/Curran_EMBC2016.pdf){:target="_blank"} - [UbiComp 2017 Poster Abstract](/files/Curran_UbiComp2017.pdf){:target="_blank"} - [PhyCS 2018 Paper*](/files/Curran_PhyCS2018.pdf){:target="_blank"}
-
-*Winner of [PhyCS 2018 Best Student Paper Award](http://www.neurophycs.org/PreviousAwards.aspx){:target="_blank"}
+[CHI 2019 Paper](/files/Understanding_Digitally_Mediated_Empathy_CHI_2019.pdf){:target="_blank"}

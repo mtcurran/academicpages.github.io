@@ -1,13 +1,11 @@
 ---
-title: "TrackStream"
-excerpt: "A web app and API to stream music from your favorite movies and TV shows. (Fall 2016)<br/><img src='/images/projects_trackstream.png'>"
+title: "HCI in Virtual Reality"
+excerpt: "User research for a virtual reality experience to encourage sustainable behavior (Spring 2017)<br/><img src='/images/projects_HCI_VR.png'>"
 collection: portfolio
 ---
 
-TrackStream is a web application that integrates the TuneFind API and YouTube API to allow users to search and stream songs from movie and TV show soundtracks. Using the TuneFind API allowed us to include descriptions of the scenes during which each song is playing, enabling someone to find a song even if the title, artist, or specific lyrics are unknown. The functionality of TrackStream is separated into its own API, which is called by the web server to return results to the front end for display.
+My team and I took on the user research for the development of [_VR the Change_](https://www.ischool.berkeley.edu/projects/2017/vr-change){:target="_blank"}, a virtual reality (VR) experience for the HTC Vive aimed at improving climate change awareness and sustainable behaviors. By conducting a focus group on behavioral change, evaluative interviews and followup of the in-development VR experience, and a competitive review of existing media with similar aims, we were able to provide actionable points of feedback for the development team.
 
-As a team we utilized GitHub and Heroku to develop and deploy the HTML, CSS, and JavaScript for the project. The back end web server, which was my primary role, is written using Node.js and Express.js, while the front end makes use of Mustache.js for templating.
+_Spring 2017 course project for INFO 214: Needs and Usability Assessment_
 
-_Fall 2016 course project for INFO 253: Web Architecture_
-
-[Project Link](http://trackstream.herokuapp.com){:target="_blank"} - [Web App Github](http://github.com/mtcurran/webarch-finalproject-trackstream){:target="_blank"} - [API Github](http://github.com/mtcurran/webarch-finalproject-trackstream-api){:target="_blank"}
+[Project Slides](/files/NUA_S17_finalslides.pdf){:target="_blank"} - [Project Report](/files/NUA_S17_finalreport.pdf){:target="_blank"}
