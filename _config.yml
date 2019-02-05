@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Max T. Curran"
 title_separator          : "-"
 name                     : &name "Max T. Curran"
-description              : &description "School of Information PhD student"
+description              : &description "School of Information PhD candidate"
 url                      : https://mtcurran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mtcurran.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Max T. Curran"
   avatar           : "maxcurran_web.png"
-  bio              : "PhD student at the UC Berkeley School of Information"
+  bio              : "PhD candidate at the UC Berkeley School of Information"
   location         : "Berkeley, CA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=M4hQ74EAAAAJ&hl=en"
