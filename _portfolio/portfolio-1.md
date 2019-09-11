@@ -10,4 +10,4 @@ This research seeks to explore the effects of sharing physiological data in comm
 
 [CHI 2019 Paper](/files/Understanding_Digitally_Mediated_Empathy_CHI_2019.pdf){:target="_blank"}
 
-[Video of Presentation at CHI 2019 (video link)](https://www.youtube.com/watch?v=K73358n7dqI){:target="_blank"}
+[CHI 2019 Conference Presentation Recording](https://www.youtube.com/watch?v=K73358n7dqI){:target="_blank"}

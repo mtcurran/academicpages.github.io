@@ -12,4 +12,4 @@ Alphanumeric passwords perform poorly in their role in securing sensitive inform
 
 *Winner of [PhyCS 2018 Best Student Paper Award](http://www.neurophycs.org/PreviousAwards.aspx){:target="_blank"}
 
-[Presentation at the 2018 CLTC Research Exchange (video link)](https://www.youtube.com/watch?v=ie4d1Yy0mdU){:target="_blank"}
+[CLTC Research Exchange 2018 Presentation Recording](https://www.youtube.com/watch?v=ie4d1Yy0mdU){:target="_blank"}
