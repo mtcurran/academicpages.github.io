@@ -8,5 +8,6 @@ Technology-mediated communication affords great advantages such as surpassing th
 
 This research seeks to explore the effects of sharing physiological data in communication on interpersonal processes like empathy. In this first study we observe that embedding their electrodermal activity (EDA) in a video of an anonymous person's experience lowers observers' accuracies of the person's feelings, but functions similarly to narrative text as a reminder of the person's presence and unique perspective. Future work will continue to explore these effects with broader interpretations of empathy and in different relationship types.
 
-
 [CHI 2019 Paper](/files/Understanding_Digitally_Mediated_Empathy_CHI_2019.pdf){:target="_blank"}
+
+[Video of Presentation at CHI 2019 (video link)](https://www.youtube.com/watch?v=K73358n7dqI){:target="_blank"}

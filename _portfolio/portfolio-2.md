@@ -8,8 +8,8 @@ Alphanumeric passwords perform poorly in their role in securing sensitive inform
 
 "Passthoughts" is a paradigm aimed at being both multifactor and one-step, using the inherence factor of EEG (electroencephalography, measure electrical activity from the brain), the knowledge factor of a user's chosen mental thought, and potentially the posession factor of the device itself if it passes a unique digital signature. EEG has tradtionally been collected via many channels, or electrodes, placed on the scalp - but recent research has shown that EEG can be collected from the ear allowing for a much more wearable form factor similar to audio headphones or a bluetooth headset. We first combined passthoughts and earEEG by modifying a cheap, off-the-shelf device to collect data using a single electrode placed in the ear canal rather than on the scalp. More recently we created and tested custom-fit earpieces with multiple electrodes achieving >99% accuracy rates with a single earpiece within our study sample.
 
-[Recorded Talk at the 2018 CLTC Research Exchange](https://www.youtube.com/watch?v=ie4d1Yy0mdU){:target="_blank"}
-
 [EMBC 2016 Paper](/files/Curran_EMBC2016.pdf){:target="_blank"} - [UbiComp 2017 Poster Abstract](/files/Curran_UbiComp2017.pdf){:target="_blank"} - [PhyCS 2018 Paper*](/files/Curran_PhyCS2018.pdf){:target="_blank"}
 
 *Winner of [PhyCS 2018 Best Student Paper Award](http://www.neurophycs.org/PreviousAwards.aspx){:target="_blank"}
+
+[Presentation at the 2018 CLTC Research Exchange (video link)](https://www.youtube.com/watch?v=ie4d1Yy0mdU){:target="_blank"}
