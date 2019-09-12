@@ -10,6 +10,6 @@ Alphanumeric passwords perform poorly in their role in securing sensitive inform
 
 [EMBC 2016 Paper](/files/Curran_EMBC2016.pdf){:target="_blank"} - [UbiComp 2017 Poster Abstract](/files/Curran_UbiComp2017.pdf){:target="_blank"} - [PhyCS 2018 Paper*](/files/Curran_PhyCS2018.pdf){:target="_blank"}
 
-*Winner of [PhyCS 2018 Best Student Paper Award](http://www.neurophycs.org/PreviousAwards.aspx){:target="_blank"}
+*Winner of [PhyCS 2018 Best Student Paper Award](https://www.neurophycs.org/PreviousAwards.aspx){:target="_blank"}
 
 [CLTC Research Exchange 2018 Presentation Recording](https://www.youtube.com/watch?v=ie4d1Yy0mdU){:target="_blank"}
